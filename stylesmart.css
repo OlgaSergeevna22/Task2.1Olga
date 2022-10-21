@@ -1,0 +1,50 @@
+header {
+    color: white;
+    background-color: rgb(122, 2, 2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 500px;
+    border: rgb(122, 2, 2) 5px solid;
+    text-align: center;
+    margin-left: 400px;
+    padding-top: 20px;
+}
+
+main {
+    margin-left: 450px;
+    width: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: white;
+    background-color: rgb(122, 2, 2);
+    padding: 10px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 15px;
+}
+
+a {
+    color: gray;
+    font-weight: bold;
+}
+
+div {
+    border: rgb(122, 2, 2) 2px solid;
+    border-radius: 5px;
+    padding: 10px 0 0 10px;
+    margin: 0 0 10px 0;
+}
+
+footer {
+    color: white;
+    background-color: rgb(122, 2, 2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 500px;
+    border: rgb(122, 2, 2) 5px solid;
+    text-align: center;
+    margin-left: 400px;
+    padding-top: 20px;
+}

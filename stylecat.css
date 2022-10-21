@@ -1,0 +1,23 @@
+body {
+    background-image: url(images/back.jpg);
+    background-size: cover;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 500px;
+    padding-left: 10px;
+}
+
+h1 {
+    background-image: linear-gradient(to top, rgb(133, 7, 7), black);
+    padding: 10px;
+}
+
+h2 {
+    background-image: linear-gradient(to top, rgb(133, 7, 7), black);
+    padding: 10px;
+}
+
+p {
+    font-size: 15px;
+    padding: 10px;
+}
