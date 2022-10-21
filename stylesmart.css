@@ -3,10 +3,14 @@ header {
     background-color: rgb(122, 2, 2);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     width: 500px;
-    border: rgb(122, 2, 2) 5px solid;
+    border: rgba(255, 1, 1, 0.281) 5px solid;
     text-align: center;
     margin-left: 400px;
     padding-top: 20px;
+}
+
+body {
+    background-color: rgb(255, 239, 239);
 }
 
 main {
